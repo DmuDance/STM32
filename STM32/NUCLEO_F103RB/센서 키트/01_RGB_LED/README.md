@@ -55,7 +55,7 @@ RGB LED Module          NUCLEO-F103RB
 └─────────────┘        └─────────────┘
 ```
 
-<img width="50%" alt="image" src="https://github.com/user-attachments/assets/8b370dc2-82fc-461d-b076-eec6b143dd9e" />
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/8b370dc2-82fc-461d-b076-eec6b143dd9e" />
 
 
 
@@ -315,7 +315,7 @@ void RGB_Demo_Rainbow(void)
 ```
 ## 📊 시리얼 출력 
 ```
-![KakaoTalk_20260119_111149092_01](https://github.com/user-attachments/assets/890befa5-7edd-4869-a3b4-9a3ba1441560)
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/890befa5-7edd-4869-a3b4-9a3ba1441560" />
 
 ========================================
   RGB LED Module Test - NUCLEO-F103RB
