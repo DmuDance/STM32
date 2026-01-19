@@ -40,6 +40,7 @@ auto-reload preload
 
 
 <img width="673" height="673" alt="image" src="https://github.com/user-attachments/assets/e2c538ed-a2bb-4d71-9754-78045efa6e9c">
+<img width="673" height="673" alt="image" src="https://github.com/user-attachments/assets/ff0c8168-57d1-4f09-8519-be62234b639b">
 
 
 
