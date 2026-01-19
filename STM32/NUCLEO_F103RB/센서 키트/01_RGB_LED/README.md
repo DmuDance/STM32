@@ -16,7 +16,7 @@ RGB LED 모듈은 Red, Green, Blue 세 가지 색상의 LED가 하나의 패키�
 | 점퍼 와이어 | 4 | Female-Female |
 
 ### 초기 STM32셋팅
-
+```
 BOARD 선택 > STM32F103RBTx
 
 RCC > HSE&LSE Disable
@@ -32,6 +32,8 @@ TIM2 Parameter Settings 1ms 적용
 Prescaler 63
 Counter Period 999
 auto-reload preload
+```
+
 
 <img width="727" height="673" alt="image" src="https://github.com/user-attachments/assets/e2c538ed-a2bb-4d71-9754-78045efa6e9c" />
 
