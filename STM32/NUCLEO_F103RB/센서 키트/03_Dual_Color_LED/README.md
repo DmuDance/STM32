@@ -460,6 +460,7 @@ void DualLED_Alternating(void)
 ```
 
 <img width="30%" alt="F103RB-pin" src="https://github.com/user-attachments/assets/722713d4-d281-43e4-adbf-bb84ab8bd482" />
+<img width="100%" alt="F103RB-pin" src="https://github.com/user-attachments/assets/1dc0ffad-5463-4e11-a624-51ca957c2cd6" />
 [완료 영상](https://youtube.com/shorts/csJrnPi_nww?feature=share)
 
 
