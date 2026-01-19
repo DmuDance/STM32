@@ -18,16 +18,22 @@ RGB LED 모듈은 Red, Green, Blue 세 가지 색상의 LED가 하나의 패키�
 ### 초기 STM32셋팅
 ```
 BOARD 선택 > STM32F103RBTx
+```
 
+```
 RCC > HSE&LSE Disable
 내부클럭 이용을 위해
+```
 
+```
 TIM2 > Clock Source > Internal Clock
 Channel1 > PWM Generation CH1
 Channel2 > PWM Generation CH2
 Channel3 > PWM Generation CH3
 PWM이용을 위해
+```
 
+```
 TIM2 Parameter Settings 1ms 적용
 Prescaler 63
 Counter Period 999
