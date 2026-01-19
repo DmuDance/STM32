@@ -28,6 +28,11 @@ Channel2 > PWM Generation CH2
 Channel3 > PWM Generation CH3
 PWM이용을 위해
 
+TIM2 Parameter Settings 1ms 적용
+Prescaler 63
+Counter Period 999
+auto-reload preload
+
 
 
 
