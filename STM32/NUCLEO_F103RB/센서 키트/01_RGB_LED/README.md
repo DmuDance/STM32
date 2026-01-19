@@ -39,7 +39,7 @@ auto-reload preload
 ```
 
 
-<img width="673" height="673" alt="image" src="https://github.com/user-attachments/assets/e2c538ed-a2bb-4d71-9754-78045efa6e9c" />
+<img width="673" height="673" alt="image" src="https://github.com/user-attachments/assets/e2c538ed-a2bb-4d71-9754-78045efa6e9c">
 
 
 
@@ -334,7 +334,8 @@ void RGB_Demo_Rainbow(void)
 [Test 3] Rainbow Effect
 
 --- Cycle Complete ---
-<img width="30%" alt="image" src="https://github.com/user-attachments/assets/890befa5-7edd-4869-a3b4-9a3ba1441560" />
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/535f2a1a-3a03-46dc-91e0-9876cbd18e5f" />
+// ![KakaoTalk_20260119_111149092_01](https://github.com/user-attachments/assets/535f2a1a-3a03-46dc-91e0-9876cbd18e5f)
 
 ```
 ## 📊 결과
