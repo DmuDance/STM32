@@ -51,7 +51,7 @@ RGB LED Module          NUCLEO-F103RB
 └─────────────┘        └─────────────┘
 ```
 
-<img width="673" height="673" alt="image" src="https://github.com/user-attachments/assets/8b370dc2-82fc-461d-b076-eec6b143dd9e" />
+<img width="50%" alt="image" src="https://github.com/user-attachments/assets/8b370dc2-82fc-461d-b076-eec6b143dd9e" />
 
 
 
