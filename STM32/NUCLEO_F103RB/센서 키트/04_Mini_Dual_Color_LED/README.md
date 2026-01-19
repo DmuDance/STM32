@@ -20,6 +20,8 @@
 ### 핀 연결
 
 <img width="396" height="360" alt="F103RB-pin" src="https://github.com/user-attachments/assets/18da491e-c129-4a8c-b8b2-d2ffaeaae9bb" />
+<img width="30%" alt="F103RB-pin" src="https://github.com/user-attachments/assets/1063674e-c287-489f-9dc9-3b1fdbb21b23" />
+
 
 ```
 Mini Dual Color LED     NUCLEO-F103RB
@@ -95,6 +97,8 @@ Prescaler: 63 (64MHz / 64 = 1MHz)
 Period: 999 (1kHz PWM)
 Channels: CH3(PB0)=Red, CH4(PB1)=Green
 ```
+
+<img width="632" height="619" alt="화면 캡처 2026-01-19 152839" src="https://github.com/user-attachments/assets/0861daf8-d267-44f8-a75f-032f4145dbad" />
 
 ## 📂 프로젝트 구조
 
@@ -501,6 +505,9 @@ void MiniLED_BatteryCharging(void)
 
 --- Cycle Complete ---
 ```
+<img width="30%" alt="F103RB-pin" src="https://github.com/user-attachments/assets/05119fb1-76b5-49cb-8ad7-525ba3b862bd" />
+
+[완료 영상](https://youtube.com/shorts/ms3tEHujyxc?feature=share)
 
 ## 📝 데모 패턴 상세
 
