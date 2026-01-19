@@ -334,10 +334,11 @@ void RGB_Demo_Rainbow(void)
 [Test 3] Rainbow Effect
 
 --- Cycle Complete ---
-<img width="30%" alt="image" src="https://github.com/user-attachments/assets/535f2a1a-3a03-46dc-91e0-9876cbd18e5f" />
-// ![KakaoTalk_20260119_111149092_01](https://github.com/user-attachments/assets/535f2a1a-3a03-46dc-91e0-9876cbd18e5f)
+
 
 ```
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/535f2a1a-3a03-46dc-91e0-9876cbd18e5f" />
+// ![KakaoTalk_20260119_111149092_01](https://github.com/user-attachments/assets/535f2a1a-3a03-46dc-91e0-9876cbd18e5f)
 ## 📊 결과
 <img width="30%" alt="image" src="https://github.com/user-attachments/assets/5daaf05a-4799-4844-8e90-3978eb8683d4" />
 
