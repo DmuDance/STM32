@@ -28,6 +28,10 @@ SMD LED Module          NUCLEO-F103RB
 └─────────────┘        └───────────────────┘
 ```
 
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/69c6de0f-1d3f-4340-b1e0-ded4a39fb96f">
+
+
+
 > ⚠️ **주의**: 공통 애노드(Common Anode) 타입의 경우 GND 대신 3.3V에 연결하고, PWM 극성을 반전시켜야 합니다.
 
 ### 회로도
@@ -62,6 +66,9 @@ Prescaler: 63 (64MHz / 64 = 1MHz)
 Period: 999 (1MHz / 1000 = 1kHz PWM)
 Channels: CH1(PA0), CH2(PA1), CH3(PB10)
 ```
+
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/0af1dbb0-2758-426b-bfb8-d48af3298aad">
+
 
 ### 주요 함수
 
@@ -304,6 +311,13 @@ void RGB_Demo_Rainbow(void)
 
 --- Cycle Complete ---
 ```
+
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/83ba03a3-7cbc-4cca-8708-bb68f03a46b5">
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/b4aa17d9-3e9f-42c4-b081-a3d6ec7d6fc7">
+
+
+https://github.com/user-attachments/assets/0af1dbb0-2758-426b-bfb8-d48af3298aad
+![Uploading KakaoTalk_20260119_124024351.jpg…]()
 
 ## 🔍 트러블슈팅
 
