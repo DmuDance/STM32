@@ -13,7 +13,7 @@ RGB LED 모듈은 Red, Green, Blue 세 가지 색상의 LED가 하나의 패키�
 |------|------|------|
 | NUCLEO-F103RB | 1 | STM32F103RB 탑재 |
 | RGB LED 모듈 | 1 | KY-016 또는 호환 모듈 |
-| 점퍼 와이어 | 4 | Female-Female |
+| 점퍼 와이어 | 4 | male-Female |
 
 ### 초기 STM32셋팅
 ```
@@ -315,7 +315,6 @@ void RGB_Demo_Rainbow(void)
 ```
 ## 📊 시리얼 출력 
 ```
-<img width="30%" alt="image" src="https://github.com/user-attachments/assets/890befa5-7edd-4869-a3b4-9a3ba1441560" />
 
 ========================================
   RGB LED Module Test - NUCLEO-F103RB
@@ -335,7 +334,11 @@ void RGB_Demo_Rainbow(void)
 [Test 3] Rainbow Effect
 
 --- Cycle Complete ---
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/890befa5-7edd-4869-a3b4-9a3ba1441560" />
+
 ```
+## 📊 결과
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/5daaf05a-4799-4844-8e90-3978eb8683d4" />
 
 ## 🔍 트러블슈팅
 
