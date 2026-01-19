@@ -35,7 +35,7 @@ auto-reload preload
 ```
 
 
-<img width="727" height="673" alt="image" src="https://github.com/user-attachments/assets/e2c538ed-a2bb-4d71-9754-78045efa6e9c" />
+<img width="673" height="673" alt="image" src="https://github.com/user-attachments/assets/e2c538ed-a2bb-4d71-9754-78045efa6e9c" />
 
 
 
@@ -50,7 +50,8 @@ RGB LED Module          NUCLEO-F103RB
 │   GND  ─────┼────────┤ GND
 └─────────────┘        └─────────────┘
 ```
-![KakaoTalk_20260119_111918793](https://github.com/user-attachments/assets/8b370dc2-82fc-461d-b076-eec6b143dd9e)
+
+<img width="673" height="673" alt="image" src="https://github.com/user-attachments/assets/8b370dc2-82fc-461d-b076-eec6b143dd9e" />
 
 
 
