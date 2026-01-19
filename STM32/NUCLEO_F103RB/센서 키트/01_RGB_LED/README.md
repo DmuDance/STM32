@@ -33,6 +33,7 @@ Prescaler 63
 Counter Period 999
 auto-reload preload
 
+<img width="727" height="673" alt="image" src="https://github.com/user-attachments/assets/e2c538ed-a2bb-4d71-9754-78045efa6e9c" />
 
 
 
