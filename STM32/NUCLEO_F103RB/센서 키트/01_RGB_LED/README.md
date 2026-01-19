@@ -1,4 +1,4 @@
-# RGB LED Module Test - NUCLEO-F103RB
+# 01RGB LED Module Test - NUCLEO-F103RB
 
 RGB LED 모듈을 STM32F103 NUCLEO 보드에서 PWM을 이용하여 제어하는 프로젝트입니다.
 
@@ -15,6 +15,22 @@ RGB LED 모듈은 Red, Green, Blue 세 가지 색상의 LED가 하나의 패키�
 | RGB LED 모듈 | 1 | KY-016 또는 호환 모듈 |
 | 점퍼 와이어 | 4 | Female-Female |
 
+### 초기 STM32셋팅
+
+BOARD 선택 > STM32F103RBTx
+
+RCC > HSE&LSE Disable
+내부클럭 이용을 위해
+
+TIM2 > Clock Source > Internal Clock
+Channel1 > PWM Generation CH1
+Channel2 > PWM Generation CH2
+Channel3 > PWM Generation CH3
+PWM이용을 위해
+
+
+
+
 ### 핀 연결
 
 ```
@@ -26,6 +42,9 @@ RGB LED Module          NUCLEO-F103RB
 │   GND  ─────┼────────┤ GND
 └─────────────┘        └─────────────┘
 ```
+![KakaoTalk_20260119_111918793](https://github.com/user-attachments/assets/8b370dc2-82fc-461d-b076-eec6b143dd9e)
+
+
 
 > ⚠️ **주의**: 공통 애노드(Common Anode) 타입의 경우 GND 대신 3.3V에 연결하고, PWM 극성을 반전시켜야 합니다.
 
@@ -281,9 +300,10 @@ void RGB_Demo_Rainbow(void)
 	         printf("\r\n--- Cycle Complete ---\r\n\n");
     /* USER CODE END WHILE */
 ```
-## 📊 시리얼 출력 예시
-
+## 📊 시리얼 출력 
 ```
+![KakaoTalk_20260119_111149092_01](https://github.com/user-attachments/assets/890befa5-7edd-4869-a3b4-9a3ba1441560)
+
 ========================================
   RGB LED Module Test - NUCLEO-F103RB
 ========================================
