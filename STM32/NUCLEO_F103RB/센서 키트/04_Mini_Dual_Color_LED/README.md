@@ -506,7 +506,7 @@ void MiniLED_BatteryCharging(void)
 --- Cycle Complete ---
 ```
 <img width="30%" alt="F103RB-pin" src="https://github.com/user-attachments/assets/05119fb1-76b5-49cb-8ad7-525ba3b862bd" />
-
+<img width="30%" alt="F103RB-pin" src="https://github.com/user-attachments/assets/d1b0dd8e-249c-4b21-879c-ecaad20fb7e2" />
 [완료 영상](https://youtube.com/shorts/ms3tEHujyxc?feature=share)
 
 ## 📝 데모 패턴 상세
