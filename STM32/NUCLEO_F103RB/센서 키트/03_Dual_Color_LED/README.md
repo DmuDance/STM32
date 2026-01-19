@@ -19,6 +19,9 @@
 ### 핀 연결
 
 <img width="396" height="360" alt="F103RB-pin" src="https://github.com/user-attachments/assets/00a21beb-28dd-4c5b-ab50-18be45ad950a" />
+<img width="30%" alt="F103RB-pin" src="https://github.com/user-attachments/assets/52e50e1d-0740-47be-b933-ca3d0432d918" />
+
+
 
 ```
 Dual Color LED          NUCLEO-F103RB
@@ -93,6 +96,9 @@ Prescaler: 63 (64MHz / 64 = 1MHz)
 Period: 999 (1MHz / 1000 = 1kHz PWM)
 Channels: CH1(PA6)=Red, CH2(PA7)=Green
 ```
+
+<img width="625" height="592" alt="화면 캡처 2026-01-19 142649" src="https://github.com/user-attachments/assets/37aa459b-2eb9-4222-8879-05d54b9accbe" />
+
 
 ## 📂 프로젝트 구조
 
@@ -452,6 +458,11 @@ void DualLED_Alternating(void)
 
 --- Cycle Complete ---
 ```
+
+<img width="30%" alt="F103RB-pin" src="https://github.com/user-attachments/assets/722713d4-d281-43e4-adbf-bb84ab8bd482" />
+[![완료 영상](https://drive.google.com/drive/my-drive?hl=ko)
+
+
 
 ## 📝 데모 패턴 상세
 
