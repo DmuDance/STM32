@@ -19,6 +19,10 @@
 <img width="800" height="600" alt="piezo_001" src="https://github.com/user-attachments/assets/d07acb56-dbe3-4881-80dd-251518bbb7a4" />
 <br>
 
+<img width="30%" alt="F103RB-pin" src="https://github.com/user-attachments/assets/155eaeb7-6e96-472f-ae65-f6ef26503380" />
+<img width="30%" alt="F103RB-pin" src="https://github.com/user-attachments/assets/3ed8b9ea-382d-4f6d-bd4c-7bccd8c70b82" />
+
+
 
 ```c
 /* USER CODE BEGIN PD */
@@ -195,7 +199,7 @@ void play_mario_theme(void) {
   }
   /* USER CODE END 3 */
 ```
-
+[완료 영상](https://youtube.com/shorts/Bn0Q7sPVsP4)
 ## 가습기도 가능할까?
 
 <img width="300" height="300" alt="128" src="https://github.com/user-attachments/assets/624c29d0-d512-4d49-ab3b-6123507a595a" />
