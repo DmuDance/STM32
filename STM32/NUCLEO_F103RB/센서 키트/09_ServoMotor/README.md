@@ -61,10 +61,12 @@ $$\frac{2 \, \text{ms}}{20 \, \mu\text{s}} = 100 \quad \Rightarrow \quad \text{C
 ---
 <p align="center">
 <img width="100%" alt="F103RB-pin" src="https://github.com/user-attachments/assets/7ab20973-a821-454c-a40e-f9cf96575a1c" />
-
+</p>
+<p align="center">
 TILT
 <img width="30%" alt="F103RB-pin" src="https://github.com/user-attachments/assets/0c5026a8-f774-4dec-8019-cde7228f94aa" />
-
+</p>
+<p align="center">
 PAN
 <img width="30%" alt="F103RB-pin" src="https://github.com/user-attachments/assets/d789cc36-05ab-4a81-94e3-27ec737d6100" />
 </p>
@@ -414,6 +416,9 @@ void display_servo_status(uint8_t pan, uint8_t tilt)
     
     /* USER CODE END WHILE */
 ```
+
+[완료 영상_스타워즈](https://www.youtube.com/shorts/JOkUVXY-gf8)
+
 
 
 
