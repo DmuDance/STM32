@@ -71,7 +71,7 @@ PAN<br>
 <img width="30%" alt="F103RB-pin" src="https://github.com/user-attachments/assets/d789cc36-05ab-4a81-94e3-27ec737d6100" />
 </p>
 <p align="center">
-PAN<br>
+FaceTrackBot<br>
 <img width="30%" alt="F103RB-pin" src="https://github.com/user-attachments/assets/ccdfaed6-42dd-4d75-8c94-2fe51bf0a304" />
 </p>
 
@@ -434,6 +434,8 @@ python face_tracking_pantilt.py --port COM8 --camera 1
 !> 입력시 시리얼 포트와 카메라 인덱스 확인
 
 [완료 영상_스타워즈]<br>(https://www.youtube.com/shorts/JOkUVXY-gf8)
+[FaceTrackBot]<br>(https://www.youtube.com/shorts/R4WdG_ue0W8)
+
 
 
 
