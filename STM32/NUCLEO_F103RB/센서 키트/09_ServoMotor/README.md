@@ -264,7 +264,7 @@ python face_tracking_pantilt.py --port COM8 --camera 1
 명령어 입력
 !> 입력시 시리얼 포트와 카메라 인덱스 확인
 
-[완료 영상_스타워즈]<br>(https://www.youtube.com/shorts/JOkUVXY-gf8)
+
 [FaceTrackBot]<br>(https://www.youtube.com/shorts/R4WdG_ue0W8)
 
 
