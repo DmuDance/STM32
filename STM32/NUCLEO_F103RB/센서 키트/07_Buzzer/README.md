@@ -131,6 +131,30 @@ const int mario_theme_length = sizeof(mario_theme) / sizeof(mario_theme[0]);
 ```
 
 ```c
+//스타워즈 피에조 부저용 Note 배열
+const Note starwars_theme[] = {
+    // Star Wars Main Theme (Intro)
+
+    {NOTE_A6, QUARTER}, {NOTE_A6, QUARTER}, {NOTE_A6, QUARTER},
+    {NOTE_F6, EIGHTH},  {NOTE_C7, EIGHTH},
+
+    {NOTE_A6, QUARTER}, {NOTE_F6, EIGHTH},  {NOTE_C7, EIGHTH},
+    {NOTE_A6, HALF},
+
+    {REST, QUARTER},
+
+    {NOTE_E7, QUARTER}, {NOTE_E7, QUARTER}, {NOTE_E7, QUARTER},
+    {NOTE_F7, EIGHTH},  {NOTE_C7, EIGHTH},
+
+    {NOTE_GS6, QUARTER}, {NOTE_F6, EIGHTH}, {NOTE_C7, EIGHTH},
+    {NOTE_A6, HALF},
+
+    {REST, HALF}
+};
+```
+
+
+```c
 /* USER CODE BEGIN PFP */
 void play_tone(uint16_t frequency, uint16_t duration);
 void play_mario_theme(void);
@@ -199,7 +223,9 @@ void play_mario_theme(void) {
   }
   /* USER CODE END 3 */
 ```
-[완료 영상](https://youtube.com/shorts/Bn0Q7sPVsP4)
+[완료 영상_슈퍼마리오](https://youtube.com/shorts/Bn0Q7sPVsP4)
+[완료 영상_스타워](https://youtube.com/shorts/gI4OH3EEbQ0?feature=share)
+
 ## 가습기도 가능할까?
 
 <img width="300" height="300" alt="128" src="https://github.com/user-attachments/assets/624c29d0-d512-4d49-ab3b-6123507a595a" />
