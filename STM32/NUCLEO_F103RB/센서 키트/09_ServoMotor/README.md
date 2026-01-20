@@ -70,6 +70,11 @@ TILT<br>
 PAN<br>
 <img width="30%" alt="F103RB-pin" src="https://github.com/user-attachments/assets/d789cc36-05ab-4a81-94e3-27ec737d6100" />
 </p>
+<p align="center">
+PAN<br>
+<img width="30%" alt="F103RB-pin" src="https://github.com/user-attachments/assets/ccdfaed6-42dd-4d75-8c94-2fe51bf0a304" />
+</p>
+
 
 ## 6. 각도별 CCR 값
 - 0° → 1 ms → CCR = 50  
@@ -416,6 +421,17 @@ void display_servo_status(uint8_t pan, uint8_t tilt)
     
     /* USER CODE END WHILE */
 ```
+
+cam과 서보봇 수령 후 아나콘다 프롬프트에
+python camtest.py 입력하고 카메라 번호 확인 후 카메라 인덱스 번호 확인
+python face_tracking_pantilt.py에 인덱스 번호 입력 
+틸트와 팬의 방향이 바뀌었을떄는 문서를 열어서 키보드방향 수정
+ex> w는s로 s는w로 이런식으로 수정
+
+아나콘드 프롬프트에 
+python face_tracking_pantilt.py --port COM8 --camera 1
+명령어 입력
+!> 입력시 시리얼 포트와 카메라 인덱스 확인
 
 [완료 영상_스타워즈]<br>(https://www.youtube.com/shorts/JOkUVXY-gf8)
 
