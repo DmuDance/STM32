@@ -511,6 +511,7 @@ static void Anim_Demo(void) {
 }
 ```
   /* USER CODE BEGIN 2 */<br>
+$$$$$$$$$$$$$$$$$$$$$/<br>
   /* USER CODE END 2 */
 ```c
 LCD_Init();
