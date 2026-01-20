@@ -223,7 +223,7 @@ void play_mario_theme(void) {
   }
   /* USER CODE END 3 */
 ```
-[완료 영상_슈퍼마리오](https://youtube.com/shorts/Bn0Q7sPVsP4)
+[완료 영상_슈퍼마리오](https://youtube.com/shorts/Bn0Q7sPVsP4)<br>
 [완료 영상_스타워](https://youtube.com/shorts/gI4OH3EEbQ0?feature=share)
 
 ## 가습기도 가능할까?
