@@ -522,10 +522,10 @@ LCD_Init();
      Anim_SetExpr(EXPR_NORMAL);
      HAL_Delay(500);
 ```
- /* USER CODE BEGIN WHILE */
-  while (1)
-  {
-    $$$$$$$$$$$$$$$$$$$$$/<br>
+ /* USER CODE BEGIN WHILE */<br>
+  while (1)<br>
+  {<br>
+    $$$$$$$$$$$$$$$$$$$$$<br>
   /* USER CODE END WHILE */
 ```c
 Anim_Demo();
