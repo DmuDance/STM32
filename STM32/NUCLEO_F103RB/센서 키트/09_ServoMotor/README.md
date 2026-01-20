@@ -57,6 +57,8 @@ $$\frac{2 \, \text{ms}}{20 \, \mu\text{s}} = 100 \quad \Rightarrow \quad \text{C
 ## 5. 요약
 - Prescaler = **1279**, Period = **999** → 정확히 **50 Hz (20 ms)** PWM 생성  
 - CCR 값 50 ~ 100 사이로 설정하여 SG90 서보 각도 (0°~180°) 제어 가능  
+
+---
 <p align="center">
 <img width="100%" alt="F103RB-pin" src="https://github.com/user-attachments/assets/7ab20973-a821-454c-a40e-f9cf96575a1c" />
 
@@ -66,7 +68,6 @@ TILT
 PAN
 <img width="30%" alt="F103RB-pin" src="https://github.com/user-attachments/assets/d789cc36-05ab-4a81-94e3-27ec737d6100" />
 </p>
----
 
 ## 6. 각도별 CCR 값
 - 0° → 1 ms → CCR = 50  
