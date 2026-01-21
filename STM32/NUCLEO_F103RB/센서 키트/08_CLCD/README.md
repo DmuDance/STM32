@@ -20,7 +20,7 @@
 
 
 <p align="center">
-<img width="100%" alt="I2C_005" src="https://github.com/user-attachments/assets/06aab658-744f-4e9e-b253-0ddf668f8f10" />
+<img width="30%" alt="I2C_005" src="https://github.com/user-attachments/assets/06aab658-744f-4e9e-b253-0ddf668f8f10" />
 </p>
 
 ```c
@@ -282,5 +282,5 @@ void LCD_PUTS(char *str) {
   /* USER CODE END 2 */
 ```
 <p align="center">
-<img width="100%" alt="I2C_006" src="https://github.com/user-attachments/assets/5333b2df-d0e8-42e3-984e-7169d2ed195b" />
+<img width="30%" alt="I2C_006" src="https://github.com/user-attachments/assets/5333b2df-d0e8-42e3-984e-7169d2ed195b" />
 </p>
