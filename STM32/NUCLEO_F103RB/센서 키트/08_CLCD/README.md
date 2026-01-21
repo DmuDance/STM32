@@ -292,22 +292,22 @@ void LCD_PUTS(char *str) {
 </p>
 
 
-##번외프로젝트[CPU온도출력]
-```
+**번외프로젝트[CPU온도출력]**
+
 STM32따라하기 155p를 참고하여 셋팅을 진행
-```
+
 <p align="center">
 <img width="30%" alt="I2C_006" src="https://github.com/user-attachments/assets/d674fea2-5a91-4ad5-947c-8447f99dfa19" />
 </p>
-```
+
 기존의 CPU TEMP를 측정하는 ADC Temp프로젝트에서 코드를 변환 삽입 후 GPT의 도움으로 CPU TEMP 출력 성공
-```
+
 <p align="center">
 <img width="30%" alt="I2C_006" src="https://github.com/user-attachments/assets/fb8e86dd-889e-405f-b9d7-80e8c6171435" />
 </p>
-```
+
 문자 비트맵 추가 후 CGRAM 생성 함수를 추가하여 C를 특수문자℃로 교체 성공 후 프로젝트 마무리
-```
+
 [CLCD ADC 온도측정]<br>(https://youtube.com/shorts/r_MQdw2jnWE?feature=share)
 오실로스코프 측정
 <p align="center">
