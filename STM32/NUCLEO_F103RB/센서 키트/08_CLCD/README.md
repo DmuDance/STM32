@@ -308,7 +308,7 @@ STM32따라하기 155p를 참고하여 셋팅을 진행
 
 문자 비트맵 추가 후 CGRAM 생성 함수를 추가하여 C를 특수문자℃로 교체 성공 후 프로젝트 마무리
 
-[CLCD ADC 온도측정]<br>(https://youtube.com/shorts/r_MQdw2jnWE?feature=share)
+[CLCD ADC 온도측정]<br>(https://youtube.com/shorts/r_MQdw2jnWE?feature=share)<br>
 오실로스코프 측정
 <p align="center">
 <img width="30%" alt="I2C_006" src="https://github.com/user-attachments/assets/6eab0617-df4f-4faa-b548-4b7ac504305b" />
