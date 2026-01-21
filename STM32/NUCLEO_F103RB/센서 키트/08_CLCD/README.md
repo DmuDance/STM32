@@ -14,8 +14,13 @@
 <br>
 <img width="800" height="600" alt="I2C_003" src="https://github.com/user-attachments/assets/06a7ed9a-ca43-4011-9b45-76428a27ada8" />
 <br>
+## 주의사항
+```
+핀이 pb5&6에 할 당되어 있으므로 보드에 맞추어 pb8&9로 이동시켜야함<br>
+pb8&9로 가서 마우스 왼쪽 누르고 I2C1_SCL선택
+```
 <p align="center">
-<img width="100%" alt="I2C_004" src="https://github.com/user-attachments/assets/3c7069a0-57fa-4805-8b35-baa58dbc10e1" />
+<img width="50%" alt="I2C_004" src="https://github.com/user-attachments/assets/3c7069a0-57fa-4805-8b35-baa58dbc10e1" />
 </p>
 
 
