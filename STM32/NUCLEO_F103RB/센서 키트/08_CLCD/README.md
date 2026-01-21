@@ -14,6 +14,14 @@
 <br>
 <img width="800" height="600" alt="I2C_003" src="https://github.com/user-attachments/assets/06a7ed9a-ca43-4011-9b45-76428a27ada8" />
 <br>
+<p align="center">
+<img width="100%" alt="I2C_004" src="https://github.com/user-attachments/assets/3c7069a0-57fa-4805-8b35-baa58dbc10e1" />
+</p>
+
+
+<p align="center">
+<img width="100%" alt="I2C_005" src="https://github.com/user-attachments/assets/06aab658-744f-4e9e-b253-0ddf668f8f10" />
+</p>
 
 ```c
 /* USER CODE BEGIN Includes */
@@ -273,4 +281,6 @@ void LCD_PUTS(char *str) {
 
   /* USER CODE END 2 */
 ```
-
+<p align="center">
+<img width="100%" alt="I2C_006" src="https://github.com/user-attachments/assets/5333b2df-d0e8-42e3-984e-7169d2ed195b" />
+</p>
